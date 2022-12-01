@@ -97,7 +97,6 @@ const Home = () => {
           rel="noreferrer"
         >
           <div className="CTA button">
-            <Image src={buildspaceLogo} alt="buildspace logo" />
             <p>Like this tool? Download the Extension</p>
           </div>
         </a>
